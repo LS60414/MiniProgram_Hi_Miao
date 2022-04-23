@@ -68,58 +68,6 @@
 
 ------
 
-### 作品效果图
-
-<img src="https://github.com/LS60414/MiniProgram_Hi_Miao/raw/main/README.assets/1-%E7%99%BB%E5%BD%95%E5%88%9D%E5%A7%8B%E7%95%8C%E9%9D%A2.jpg" style="zoom: 20%;" />
-
-<img src="README.assets/2-登录授权.jpg" style="zoom:20%;" />
-
-<img src="README.assets/3-首页.jpg" style="zoom:20%;" />
-
-<img src="README.assets/4-心动猫咪.jpg" style="zoom:20%;" />
-
-<img src="README.assets/5-猫咪搜索结果.jpg" style="zoom:20%;" />
-
-<img src="README.assets/6-猫咪详情.jpg" style="zoom:20%;" />
-
-<img src="README.assets/7-寻找猫友.jpg" style="zoom:20%;" />
-
-<img src="README.assets/8-猫友搜索结果.jpg" style="zoom:20%;" />
-
-<img src="README.assets/9-猫友详情.jpg" style="zoom:20%;" />
-
-<img src="README.assets/10-猫咖探店.jpg" style="zoom:20%;" />
-
-<img src="README.assets/11-店铺搜索结果.jpg" style="zoom:20%;" />
-
-<img src="README.assets/12-店铺详情.jpg" style="zoom:20%;" />
-
-<img src="README.assets/13-知识问答.jpg" style="zoom:20%;" />
-
-<img src="README.assets/14-题目详情.jpg" style="zoom: 20%;" />
-
-<img src="README.assets/15-问答结果.jpg" style="zoom:20%;" />
-
-<img src="README.assets/16-查看答案1.jpg" style="zoom:20%;" />
-
-<img src="README.assets/17-查看答案2.jpg" style="zoom:20%;" />
-
-<img src="README.assets/18-新闻详情.jpg" style="zoom:20%;" />
-
-<img src="README.assets/19-添加心动猫咪.jpg" style="zoom:20%;" />
-
-<img src="README.assets/20-添加完毕1.jpg" style="zoom:20%;" />
-
-<img src="README.assets/21-添加完毕2.jpg" style="zoom:20%;" />
-
-<img src="README.assets/22-我的.jpg" style="zoom:20%;" />
-
-<img src="README.assets/23-信息修改.jpg" style="zoom:20%;" />
-
-<img src="README.assets/24-添加标签.jpg" style="zoom:20%;" />
-
-<img src="README.assets/25-修改添加完毕.jpg" style="zoom:20%;" />
-
 ### 设计思路
 
 1. ##### 登录
