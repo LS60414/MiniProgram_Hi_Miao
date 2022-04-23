@@ -70,7 +70,7 @@
 
 ### 作品效果图
 
-<img src="README.assets/1-登录初始界面.jpg" style="zoom: 20%;" />
+<img src="https://github.com/LS60414/MiniProgram_Hi_Miao/raw/main/README.assets/1-%E7%99%BB%E5%BD%95%E5%88%9D%E5%A7%8B%E7%95%8C%E9%9D%A2.jpg" style="zoom: 20%;" />
 
 <img src="README.assets/2-登录授权.jpg" style="zoom:20%;" />
 
