@@ -75,58 +75,6 @@
 
 ------
 
-### 作品效果图
-
-<img src="README.assets/1-登录初始界面.jpg" style="zoom: 20%;" />
-
-<img src="README.assets/2-登录授权.jpg" style="zoom:20%;" />
-
-<img src="README.assets/3-首页.jpg" style="zoom:20%;" />
-
-<img src="README.assets/4-心动猫咪.jpg" style="zoom:20%;" />
-
-<img src="README.assets/5-猫咪搜索结果.jpg" style="zoom:20%;" />
-
-<img src="README.assets/6-猫咪详情.jpg" style="zoom:20%;" />
-
-<img src="README.assets/7-寻找猫友.jpg" style="zoom:20%;" />
-
-<img src="README.assets/8-猫友搜索结果.jpg" style="zoom:20%;" />
-
-<img src="README.assets/9-猫友详情.jpg" style="zoom:20%;" />
-
-<img src="README.assets/10-猫咖探店.jpg" style="zoom:20%;" />
-
-<img src="README.assets/11-店铺搜索结果.jpg" style="zoom:20%;" />
-
-<img src="README.assets/12-店铺详情.jpg" style="zoom:20%;" />
-
-<img src="README.assets/13-知识问答.jpg" style="zoom:20%;" />
-
-<img src="README.assets/14-题目详情.jpg" style="zoom: 20%;" />
-
-<img src="README.assets/15-问答结果.jpg" style="zoom:20%;" />
-
-<img src="README.assets/16-查看答案1.jpg" style="zoom:20%;" />
-
-<img src="README.assets/17-查看答案2.jpg" style="zoom:20%;" />
-
-<img src="README.assets/18-新闻详情.jpg" style="zoom:20%;" />
-
-<img src="README.assets/19-添加心动猫咪.jpg" style="zoom:20%;" />
-
-<img src="README.assets/20-添加完毕1.jpg" style="zoom:20%;" />
-
-<img src="README.assets/21-添加完毕2.jpg" style="zoom:20%;" />
-
-<img src="README.assets/22-我的.jpg" style="zoom:20%;" />
-
-<img src="README.assets/23-信息修改.jpg" style="zoom:20%;" />
-
-<img src="README.assets/24-添加标签.jpg" style="zoom:20%;" />
-
-<img src="README.assets/25-修改添加完毕.jpg" style="zoom:20%;" />
-
 ### 设计思路
 
 1. ##### 登录
@@ -194,6 +142,8 @@
      - 允许用户添加数据库中固有的标签。
      - 也允许用户添加自定义标签。
 
+------
+
 ### 重点难点
 
 ​	重点难点主要在”主页-猫友生活“以及”添加心动猫咪“这两大部分上。
@@ -202,11 +152,4 @@
 - 寻找猫友的匹配得分算法也是一个小创新。
 - 知识问答部分则是实现”多种题型“、”从题库中随机抽取固定题目数量“等重要功能，实现过程十分繁琐。
 - 添加心动猫咪后就能自动为对应猫咪添加平理论增加热度，两者会进行关联。且任何用户都可对该评论进行回复，达到社交的效果。
-
-### 其他说明
-
-​	考虑到文字和图片可能无法完美表述本项目的功能，所以我们组除图文说明外，还有运行过程录屏可供观看。
-
-​	更详细的作品介绍可跳转至本项目的GitHub网址查看。
-
 ​	
